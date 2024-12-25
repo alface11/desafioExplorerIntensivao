@@ -8,4 +8,6 @@
 
 # Descrição
 
+Desafio Explorer Intensivão do Curso da Plataforma Rocketseat.
+
 Página Frontend simples feita com Javascript, HTML e CSS.
