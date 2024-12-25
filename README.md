@@ -8,4 +8,4 @@
 
 # Descrição
 
-Página Frontend
+Página Frontend simples feita com Javascript, HTML e CSS.
